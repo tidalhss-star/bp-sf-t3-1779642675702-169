@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tidalhss-star.github.io/bp-sf-t3-1779642675702-169/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tidalhss-star.github.io/bp-sf-t3-1779642675702-169/about.html</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://tidalhss-star.github.io/bp-sf-t3-1779642675702-169/blog.html</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://tidalhss-star.github.io/bp-sf-t3-1779642675702-169/posts/checklist-001-15fsp7x.html</loc>
     <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tidalhss-star.github.io/bp-sf-t3-1779642675702-169/posts/field_note-001-17wm2zn.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tidalhss-star.github.io/bp-sf-t3-1779642675702-169/posts/guide-002-17wm2zn.html</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -32,7 +44,7 @@
   </url>
   <url>
     <loc>https://tidalhss-star.github.io/bp-sf-t3-1779642675702-169/feed.xml</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
